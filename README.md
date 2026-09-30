@@ -1,4 +1,4 @@
-# RuralCare AI
+# RuralCare Assist
 
 > **AI Assists. Doctor Decides. Hospital Prepares.**
 
